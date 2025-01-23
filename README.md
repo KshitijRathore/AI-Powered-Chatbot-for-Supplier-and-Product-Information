@@ -20,16 +20,6 @@ Database: MySQL/PostgreSQL
  Product Comparisons & Analytics Dashboard
  Chatbot Memory for User Preferences
 
- Setup & Installation:
- Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/ai-chatbot-supplier-product.git
- Install dependencies & set up the database.
- Run the backend & frontend services.
-
  Future Improvements:
 
 Enhance chatbot memory for better personalization
